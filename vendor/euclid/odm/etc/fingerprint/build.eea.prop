@@ -1,0 +1,70 @@
+
+# InitEnv
+
+# Build.java
+ro.build.id=RKQ1.201217.002
+ro.product.manufacturer=Realme
+ro.product.brand=Realme
+ro.product.model=RMX1901
+ro.product.name=RMX1901EEA
+ro.product.device=RMX1901
+ro.product.first_api_level=28
+ro.build.version.incremental=1619368911282
+ro.build.version.release=11
+ro.build.fingerprint=Realme/RMX1901EEA/RMX1901:11/RKQ1.201217.002/1619368911282:user/release-keys
+ro.odm.build.fingerprint=Realme/RMX1901EEA/RMX1901:11/RKQ1.201217.002/1619368911282:user/release-keys
+ro.odm.build.version.incremental=1619368911282
+ro.product.odm.brand=Realme
+ro.product.odm.manufacturer=Realme
+ro.product.odm.model=RMX1901
+ro.product.odm.device=RMX1901
+ro.product.odm.name=RMX1901EEA
+ro.odm.build.date=Tue Jun  8 18:32:04 CST 2021
+ro.odm.build.date.utc=1623148324
+ro.system.build.fingerprint=Realme/RMX1901EEA/RMX1901:11/RKQ1.201217.002/1619368911282:user/release-keys
+ro.system.build.version.incremental=1619368911282
+ro.product.system.brand=Realme
+ro.product.system.manufacturer=Realme
+ro.product.system.model=RMX1901
+ro.product.system.device=RMX1901
+ro.product.system.name=RMX1901EEA
+ro.system.build.date=Tue Jun  8 18:32:04 CST 2021
+ro.system.build.date.utc=1623148324
+ro.bootimage.build.fingerprint=Realme/RMX1901EEA/RMX1901:11/RKQ1.201217.002/1619368911282:user/release-keys
+ro.bootimage.build.version.incremental=1619368911282
+ro.product.bootimage.brand=Realme
+ro.product.bootimage.manufacturer=Realme
+ro.product.bootimage.model=RMX1901
+ro.product.bootimage.device=RMX1901
+ro.product.bootimage.name=RMX1901EEA
+ro.bootimage.build.date=Tue Jun  8 18:32:04 CST 2021
+ro.bootimage.build.date.utc=1623148324
+ro.vendor.build.fingerprint=Realme/RMX1901EEA/RMX1901:11/RKQ1.201217.002/1619368911282:user/release-keys
+ro.vendor.build.version.incremental=1619368911282
+ro.product.vendor.brand=Realme
+ro.product.vendor.manufacturer=Realme
+ro.product.vendor.model=RMX1901
+ro.product.vendor.device=RMX1901
+ro.product.vendor.name=RMX1901EEA
+ro.vendor.build.date=Tue Jun  8 18:32:04 CST 2021
+ro.vendor.build.date.utc=1623148324
+ro.system_ext.build.fingerprint=Realme/RMX1901EEA/RMX1901:11/RKQ1.201217.002/1619368911282:user/release-keys
+ro.system_ext.build.version.incremental=1619368911282
+ro.product.system_ext.brand=Realme
+ro.product.system_ext.manufacturer=Realme
+ro.product.system_ext.model=RMX1901
+ro.product.system_ext.device=RMX1901
+ro.product.system_ext.name=RMX1901EEA
+ro.system_ext.build.date=Tue Jun  8 18:32:04 CST 2021
+ro.system_ext.build.date.utc=1623148324
+ro.product.build.fingerprint=Realme/RMX1901EEA/RMX1901:11/RKQ1.201217.002/1619368911282:user/release-keys
+ro.product.build.version.incremental=1619368911282
+ro.product.product.brand=Realme
+ro.product.product.manufacturer=Realme
+ro.product.product.model=RMX1901
+ro.product.product.device=RMX1901
+ro.product.product.name=RMX1901EEA
+ro.product.build.date=Tue Jun  8 18:32:04 CST 2021
+ro.product.build.date.utc=1623148324
+
+# OPPO
